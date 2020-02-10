@@ -13,10 +13,10 @@
   height: 100%;
   padding: 10px;
   text-align: center;
-  background:#6CADDC;
+  background:rgb(108, 220, 117);
 }
 .card > .img-container > img {
-  width: 60%
+  width: 75%
 }
 
 
