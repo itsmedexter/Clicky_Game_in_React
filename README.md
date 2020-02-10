@@ -9,17 +9,17 @@ In this assignment, I created a memory game with React.
 
 (render.gif)
 
-Shows the render() function for the game.
+Shows the render() function for game.
 
 ## Getting Started
 
-To get started using the application, use any web browser to view live link, (https://github.com/itsmedexter/unit18_Employee-Directory). Repository link, (https://github.com/itsmedexter/unit18_Employee-Directory).
+To get started using the application, use any web browser to view live link, (xxxxxxxxxx). Repository link, (https://github.com/itsmedexter/unit18_Employee-Directory).
 
 ## Technolgies Used
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [NodeJS](https://nodejs.org/en/)
 * [React](https://reactjs.org/)
 
 
