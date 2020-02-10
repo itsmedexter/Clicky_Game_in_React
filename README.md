@@ -7,7 +7,7 @@ In this assignment, I created a memory game with React.
 
 ## Code Snippets
 
-(render.gif)
+(render.jpg)
 
 Shows the render() function for game.
 
