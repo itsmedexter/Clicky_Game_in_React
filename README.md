@@ -13,7 +13,7 @@ Shows the render() function for game.
 
 ## Getting Started
 
-To get started using the application, use any web browser to view live link, (xxxxxxxxxx). Repository link, (https://github.com/itsmedexter/unit18_Employee-Directory).
+To get started using the application, use any web browser to view live link, (https://itsmedexter.github.io/unit18_Employee-Directory/). Repository link, (https://github.com/itsmedexter/unit18_Employee-Directory).
 
 ## Technolgies Used
 
@@ -26,7 +26,7 @@ To get started using the application, use any web browser to view live link, (xx
 
 ## Deployed Link
 
-* [See Live Site](XXxxxpx xxpx xp x)
+* [See Live Site](https://itsmedexter.github.io/unit18_Employee-Directory/)
 
 
 ## Authors
