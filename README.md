@@ -1,9 +1,9 @@
-# unit18_Employee-Directory
+# Clicky Game
 
 
 ![Click Here!](unit18_clicky.gif)
 
-In this assignment, I created a memory game with React.  
+I created a memory game with React.  
 
 ## Code Snippets
 
