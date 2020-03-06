@@ -13,7 +13,7 @@ Shows the render() function for game.
 
 ## Getting Started
 
-To get started using the application, use any web browser to view live link, (https://itsmedexter.github.io/unit18_Employee-Directory/). Repository link, (https://github.com/itsmedexter/Clicky_Game_in_React).
+To get started using the application, use any web browser to view live link, (https://itsmedexter.github.io/Clicky_Game_in_React/). Repository link, (https://github.com/itsmedexter/Clicky_Game_in_React).
 
 ## Technolgies Used
 
@@ -26,14 +26,14 @@ To get started using the application, use any web browser to view live link, (ht
 
 ## Deployed Link
 
-* [See Live Site](https://itsmedexter.github.io/unit18_Employee-Directory/)
+* [See Live Site](https://itsmedexter.github.io/Clicky_Game_in_React/)
 
 
 ## Authors
 
 Dexter Valencia 
 
-- [Link to Portfolio Site](https://github.com/itsmedexter/unit18_Employee-Directory)
+- [Link to Portfolio Site](https://github.com/itsmedexter/Clicky_Game_in_React)
 - [Link to Github](https://github.com/itsmedexter)
 - [Link to LinkedIn](https://www.linkedin.com/in/dextervalencia/)
 
